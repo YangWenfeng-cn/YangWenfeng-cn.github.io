@@ -1,6 +1,6 @@
 # Setup
 title: Yang Wenfeng
-description: My personal learning blog
+description: Stay hungry Stay foolish
 url: https://yangwenfeng-cn.github.io/
 avatar: /avatar.jpeg
 paginate: 5
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: Yang Wenfeng
+  url: https://github.com/YangWenfeng-cn
+  email: yangwenfeng1998@gmail.com
